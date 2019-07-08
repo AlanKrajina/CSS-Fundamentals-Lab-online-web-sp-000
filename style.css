@@ -11,9 +11,6 @@ header h1{
 }
 
 header nav{
-  display: flex;
-    justify-content: space-around;
-    width: 30%;
-  align-items: center;
+
     
 }
