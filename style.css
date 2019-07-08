@@ -10,4 +10,8 @@ header h1{
   justify-content: center;
 }
 
-header
+header nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
