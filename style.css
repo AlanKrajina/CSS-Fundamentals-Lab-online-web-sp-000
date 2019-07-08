@@ -32,7 +32,8 @@ figcaption {
   align-items: center;
   justify-content: center;
   width: 800px;
-  
+   margin-left: auto;
+  margin-right: auto; 
 
 }
 
